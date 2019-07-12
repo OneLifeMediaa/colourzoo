@@ -1,49 +1,41 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ColourZoo.com" resolutions="1x,2x" timestamp="1562880229026">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ColourZoo.com" resolutions="1x,2x" timestamp="1562959249134">
   <folder name="css">
-    <file name="site_global.css" crc="382613480"/>
-    <file name="master_header.css" crc="4154766280" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
-    <file name="nomq_preview_master_header.css" crc="196303354" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
-    <file name="master_right-side-bar.css" crc="86799165" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa"/>
-    <file name="nomq_preview_master_right-side-bar.css" crc="3824530138" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa"/>
-    <file name="master_footer.css" crc="164389658" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
-    <file name="nomq_preview_master_footer.css" crc="3824530138" ref="traffic-in-italy-san-benedetto-del-tronto:small-town-life-in-italy:wembley-stadium-september-2016:about:pebble-beach:bird-sculpture:at-night-inside-wembley-stadium:contact-us:italian-countryside-sanbenedetto-del-tronto2016:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
-    <file name="traffic-in-italy-san-benedetto-del-tronto.css" crc="230447794" ref="traffic-in-italy-san-benedetto-del-tronto"/>
-    <file name="nomq_traffic-in-italy-san-benedetto-del-tronto.css" crc="3894705913" ref="traffic-in-italy-san-benedetto-del-tronto"/>
-    <file name="small-town-life-in-italy.css" crc="393881309" ref="small-town-life-in-italy"/>
-    <file name="nomq_small-town-life-in-italy.css" crc="129908452" ref="small-town-life-in-italy"/>
-    <file name="wembley-stadium-september-2016.css" crc="287533935" ref="wembley-stadium-september-2016"/>
-    <file name="nomq_wembley-stadium-september-2016.css" crc="435020836" ref="wembley-stadium-september-2016"/>
-    <file name="about.css" crc="4162209340" ref="about"/>
-    <file name="nomq_about.css" crc="158942334" ref="about"/>
-    <file name="pebble-beach.css" crc="4243265244" ref="pebble-beach"/>
-    <file name="nomq_pebble-beach.css" crc="10743697" ref="pebble-beach"/>
-    <file name="bird-sculpture.css" crc="3918827433" ref="bird-sculpture"/>
-    <file name="nomq_bird-sculpture.css" crc="486930977" ref="bird-sculpture"/>
-    <file name="at-night-inside-wembley-stadium.css" crc="163163156" ref="at-night-inside-wembley-stadium"/>
-    <file name="nomq_at-night-inside-wembley-stadium.css" crc="4047420568" ref="at-night-inside-wembley-stadium"/>
-    <file name="contact-us.css" crc="520511945" ref="contact-us"/>
-    <file name="nomq_contact-us.css" crc="497919762" ref="contact-us"/>
-    <file name="italian-countryside-sanbenedetto-del-tronto2016.css" crc="272622208" ref="italian-countryside-sanbenedetto-del-tronto2016"/>
-    <file name="nomq_italian-countryside-sanbenedetto-del-tronto2016.css" crc="105624141" ref="italian-countryside-sanbenedetto-del-tronto2016"/>
-    <file name="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.css" crc="369989443" ref="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8"/>
-    <file name="nomq_ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.css" crc="110947855" ref="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8"/>
-    <file name="old-italian-fishing-house-trabocco-punta-rocciosa.css" crc="339023966" ref="old-italian-fishing-house-trabocco-punta-rocciosa"/>
-    <file name="nomq_old-italian-fishing-house-trabocco-punta-rocciosa.css" crc="4184796348" ref="old-italian-fishing-house-trabocco-punta-rocciosa"/>
-    <file name="index.css" crc="501841925" ref="index"/>
-    <file name="nomq_index.css" crc="4115059729" ref="index"/>
+    <file name="site_global.css" crc="311369602"/>
+    <file name="master_header.css" crc="528120648" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
+    <file name="nomq_preview_master_header.css" crc="3824530138" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
+    <file name="master_footer.css" crc="4275357123" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
+    <file name="nomq_preview_master_footer.css" crc="3824530138" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:index"/>
+    <file name="traffic-in-italy-san-benedetto-del-tronto.css" crc="202825052" ref="traffic-in-italy-san-benedetto-del-tronto"/>
+    <file name="small-town-life-in-italy.css" crc="264174795" ref="small-town-life-in-italy"/>
+    <file name="wembley-stadium-september-2016.css" crc="3839188104" ref="wembley-stadium-september-2016"/>
+    <file name="about.css" crc="441194740" ref="about"/>
+    <file name="nomq_about.css" crc="4052605749" ref="about"/>
+    <file name="pebble-beach.css" crc="18751972" ref="pebble-beach"/>
+    <file name="bird-sculpture.css" crc="3942252149" ref="bird-sculpture"/>
+    <file name="at-night-inside-wembley-stadium.css" crc="4280739098" ref="at-night-inside-wembley-stadium"/>
+    <file name="contact-us.css" crc="10391974" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="439785502" ref="contact-us"/>
+    <file name="italian-countryside-sanbenedetto-del-tronto2016.css" crc="21534628" ref="italian-countryside-sanbenedetto-del-tronto2016"/>
+    <file name="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.css" crc="29286729" ref="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8"/>
+    <file name="old-italian-fishing-house-trabocco-punta-rocciosa.css" crc="3827320646" ref="old-italian-fishing-house-trabocco-punta-rocciosa"/>
+    <file name="nomq_old-italian-fishing-house-trabocco-punta-rocciosa.css" crc="4207277020" ref="old-italian-fishing-house-trabocco-punta-rocciosa"/>
+    <file name="index.css" crc="19954189" ref="index"/>
+    <file name="nomq_index.css" crc="4039818725" ref="index"/>
+    <file name="master_sidebar.css" crc="3812473054" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
+    <file name="nomq_preview_master_sidebar.css" crc="3824530138" ref="about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
     <file name="museutils.js" crc="340535759" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
     <file name="museconfig.js" crc="4286661555" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
-    <file name="webpro.js" crc="4059564322" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
     <file name="require.js" crc="7928878" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
   </folder>
   <folder name="images">
@@ -53,7 +45,7 @@
     <file name="40143556903_8b536ae7d3_k_2x.jpg" crc="411857282" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa"/>
     <file name="40121391123_47f81e3657_k.jpg" crc="4153160487" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -108,33 +100,33 @@
     <file name="mobile-menu-grey84x43_2x.png" crc="4140805509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mobile-menu-grey.png" crc="4064328747" seo="true" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="old-italian-fishing-house-trabocco-punta-rocciosa" alt=""/>
-      <caption webpage="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8" alt=""/>
-      <caption webpage="traffic-in-italy-san-benedetto-del-tronto" alt=""/>
-      <caption webpage="italian-countryside-sanbenedetto-del-tronto2016" alt=""/>
-      <caption webpage="at-night-inside-wembley-stadium" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="wembley-stadium-september-2016" alt=""/>
-      <caption webpage="bird-sculpture" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="pebble-beach" alt=""/>
+    <file name="mobile-menu-grey.png" crc="4064328747" seo="true" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa">
       <caption webpage="small-town-life-in-italy" alt=""/>
+      <caption webpage="bird-sculpture" alt=""/>
+      <caption webpage="traffic-in-italy-san-benedetto-del-tronto" alt=""/>
+      <caption webpage="at-night-inside-wembley-stadium" alt=""/>
+      <caption webpage="italian-countryside-sanbenedetto-del-tronto2016" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8" alt=""/>
+      <caption webpage="pebble-beach" alt=""/>
+      <caption webpage="wembley-stadium-september-2016" alt=""/>
+      <caption webpage="old-italian-fishing-house-trabocco-punta-rocciosa" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="mobile-menu-grey_2x.png" crc="4140805509" seo="true" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa:wembley-stadium-september-2016:at-night-inside-wembley-stadium:ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8:small-town-life-in-italy:bird-sculpture:italian-countryside-sanbenedetto-del-tronto2016:traffic-in-italy-san-benedetto-del-tronto:pebble-beach">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="old-italian-fishing-house-trabocco-punta-rocciosa" alt=""/>
-      <caption webpage="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8" alt=""/>
-      <caption webpage="traffic-in-italy-san-benedetto-del-tronto" alt=""/>
-      <caption webpage="italian-countryside-sanbenedetto-del-tronto2016" alt=""/>
-      <caption webpage="at-night-inside-wembley-stadium" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="wembley-stadium-september-2016" alt=""/>
-      <caption webpage="bird-sculpture" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="pebble-beach" alt=""/>
+    <file name="mobile-menu-grey_2x.png" crc="4140805509" seo="true" ref="index:about:contact-us:old-italian-fishing-house-trabocco-punta-rocciosa">
       <caption webpage="small-town-life-in-italy" alt=""/>
+      <caption webpage="bird-sculpture" alt=""/>
+      <caption webpage="traffic-in-italy-san-benedetto-del-tronto" alt=""/>
+      <caption webpage="at-night-inside-wembley-stadium" alt=""/>
+      <caption webpage="italian-countryside-sanbenedetto-del-tronto2016" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8" alt=""/>
+      <caption webpage="pebble-beach" alt=""/>
+      <caption webpage="wembley-stadium-september-2016" alt=""/>
+      <caption webpage="old-italian-fishing-house-trabocco-punta-rocciosa" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="40143556903_8b536ae7d3_k-buttonu13661-fr.jpg" crc="3833770700" ref="index"/>
     <file name="40143556903_8b536ae7d3_k-buttonu13661-fr_2x.jpg" crc="4038908963" ref="index"/>
@@ -155,16 +147,16 @@
     <file name="47055985742_8376514537_k-buttonu13669-fr.jpg" crc="4274722462" ref="index"/>
     <file name="47055985742_8376514537_k-buttonu13669-fr_2x.jpg" crc="428477073" ref="index"/>
   </folder>
-  <file name="index.html" crc="257947951" seo="true" mt="1562880100513" redirect="true"/>
-  <file name="about.html" crc="4208818996" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="contact-us.html" crc="35625836" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="old-italian-fishing-house-trabocco-punta-rocciosa.html" crc="269491858" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="wembley-stadium-september-2016.html" crc="4055278557" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="at-night-inside-wembley-stadium.html" crc="3953323442" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.html" crc="69176056" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="small-town-life-in-italy.html" crc="3969845101" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="bird-sculpture.html" crc="4057172996" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="italian-countryside-sanbenedetto-del-tronto2016.html" crc="479606728" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="traffic-in-italy-san-benedetto-del-tronto.html" crc="93488277" seo="true" mt="1562848518996" redirect="true"/>
-  <file name="pebble-beach.html" crc="3996498840" seo="true" mt="1562848518996" redirect="true"/>
+  <file name="index.html" crc="4245991011" seo="true" mt="1562959172506" redirect="true"/>
+  <file name="about.html" crc="435490241" seo="true" mt="1562959172506" redirect="true"/>
+  <file name="contact-us.html" crc="35686098" seo="true" mt="1562959172506" redirect="true"/>
+  <file name="old-italian-fishing-house-trabocco-punta-rocciosa.html" crc="3802382444" seo="true" mt="1562959172506" redirect="true"/>
+  <file name="wembley-stadium-september-2016.html" crc="333917453" seo="true" mt="1562959004015" redirect="true"/>
+  <file name="at-night-inside-wembley-stadium.html" crc="250273215" seo="true" mt="1562959004016" redirect="true"/>
+  <file name="ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.html" crc="504640797" seo="true" mt="1562959004017" redirect="true"/>
+  <file name="small-town-life-in-italy.html" crc="212835724" seo="true" mt="1562959004019" redirect="true"/>
+  <file name="bird-sculpture.html" crc="117063274" seo="true" mt="1562959004020" redirect="true"/>
+  <file name="italian-countryside-sanbenedetto-del-tronto2016.html" crc="4159791063" seo="true" mt="1562959004023" redirect="true"/>
+  <file name="traffic-in-italy-san-benedetto-del-tronto.html" crc="4201513744" seo="true" mt="1562959004024" redirect="true"/>
+  <file name="pebble-beach.html" crc="443715224" seo="true" mt="1562959004025" redirect="true"/>
 </manifest>
