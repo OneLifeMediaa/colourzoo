@@ -24,6 +24,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey84x43.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey84x43_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
     </image:image>
     <image:image>
