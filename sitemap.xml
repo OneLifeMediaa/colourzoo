@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ColourZoo.com/index.html</loc>
-    <lastmod>2019-07-13</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,40 +17,16 @@
     <image:image>
       <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://ColourZoo.com/about.html</loc>
-    <lastmod>2019-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey84x43.png</image:loc>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey53x27.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey84x43_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ColourZoo.com/contact-us.html</loc>
-    <lastmod>2019-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey53x27_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/old-italian-fishing-house-trabocco-punta-rocciosa.html</loc>
-    <lastmod>2019-07-13</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,50 +38,98 @@
   </url>
   <url>
     <loc>http://ColourZoo.com/wembley-stadium-september-2016.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/at-night-inside-wembley-stadium.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/ace-cafe-motorbike-stunters-webmly-stadium-wheelies-8.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/small-town-life-in-italy.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/bird-sculpture.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/italian-countryside-sanbenedetto-del-tronto2016.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/traffic-in-italy-san-benedetto-del-tronto.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ColourZoo.com/pebble-beach.html</loc>
-    <lastmod>2019-07-12</lastmod>
+    <lastmod>2019-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ColourZoo.com/images/mobile-menu-grey_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
